@@ -1,0 +1,1 @@
+{"version":3,"names":["React","createContext"],"sources":["DrawerGestureContext.tsx"],"sourcesContent":["import * as React from 'react';\n\nexport default React.createContext<React.RefObject<any> | null>(null);\n"],"mappings":"AAAA,MAAO,GAAKA,MAAK,KAAM,OAAO,CAE9B,cAAeA,MAAK,CAACC,aAAa,CAA8B,IAAI,CAAC"}
